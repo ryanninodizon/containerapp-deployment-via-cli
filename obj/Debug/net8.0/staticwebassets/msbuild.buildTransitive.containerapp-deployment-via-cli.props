@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\containerapp-deployment-via-cli.props" />
+</Project>

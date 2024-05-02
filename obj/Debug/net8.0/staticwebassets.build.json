@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sc5H4ddKu323Xv6fU5xwggue5EYDzPOsq6eaMnvaq6M=",
+  "Source": "containerapp-deployment-via-cli",
+  "BasePath": "_content/containerapp-deployment-via-cli",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
